@@ -6,7 +6,7 @@ type Props = {};
 const reserveLink = "https://booking.funarenacheb.cz/";
 const ReserveNow = ({}: Props) => {
   return (
-    <div className="absolute -bottom-20 left-1/2 z-5 h-[210px] w-[264.75px] -translate-x-1/2 lg:-bottom-24 xl:top-[575px] xl:left-[625px] xl:translate-none">
+    <div className="absolute -bottom-20 left-1/2 z-5 h-[210px] w-[264.75px] -translate-x-1/2 lg:-bottom-24 2xl:translate-none 2xl:top-[575px] 2xl:left-[625px]">
       <div className="absolute top-16 left-20 shadow-[0_0_80px_20px_rgba(255,255,255,0.7),0_0_80px_40px_rgba(0,159,227,0.3)]" />
       <div className="absolute right-16 bottom-14 shadow-[0_0_100px_40px_rgba(0,159,227,0.5),0_0_100px_50px_rgba(227,6,19,0.7)]" />
       <Link
