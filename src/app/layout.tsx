@@ -13,7 +13,7 @@ import {
 } from "@/app/lib/fonts";
 
 export const metadata: Metadata = {
-  title: "Tran Quang HUy - Testing FE Developer",
+  title: "Tran Quang Huy - Testing FE Developer",
   description: "Testing FE Developer",
 };
 
